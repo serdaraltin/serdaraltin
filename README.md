@@ -3,10 +3,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=serdaraltin&label=Profile%20views&color=ff8a14"/> </p>
 
 <a href="https://www.linkedin.com/in/serdar-altin/" ><img src="linkedin.png" alt="linkedin" width="100"/></a>
-<a href="https://www. youtube.com/meyta" ><img src="youtube.png" alt="youtube" width="100"/></a>
+<a href="https://www.youtube.com/meyta" ><img src="youtube.png" alt="youtube" width="100"/></a>
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=serdaraltin&show_icons=true&theme=dark&count_private=false)](https://github.com/serdaraltin/)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=serdaraltin&show_icons=true&theme=default&count_private=false)](https://github.com/serdaraltin/)
 
 | Language           | Framework | Level |
 | :----------------- |:-------------------:| --------:|
