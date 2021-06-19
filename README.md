@@ -31,19 +31,19 @@
      <a href="https://github.com/serdaraltin/Freelance-Works-2021"> <img src="https://img.shields.io/badge/2021%20%E2%86%92-gray.svg?colorA=CE5C00&colorB=CE5C00&style=for-the-badge"/></a>
   <img src="https://img.shields.io/badge/Projects-146-CE0057?style=for-the-badge"/></a>
   <img src="https://img.shields.io/badge/Total Lines-145.543-00C504?style=for-the-badge"/></a>
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/serdaraltin/Freelance-Works-2021?style=for-the-badge">
+  <img src="https://img.shields.io/github/repo-size/serdaraltin/Freelance-Works-2021?style=for-the-badge">
 </p>
 <p align="center">
      <a href="https://github.com/serdaraltin/Freelance-Works-2020"> <img src="https://img.shields.io/badge/2020%20%E2%86%92-gray.svg?colorA=CE5C00&colorB=CE5C00&style=for-the-badge"/></a>
   <img src="https://img.shields.io/badge/Projects-173-CE0057?style=for-the-badge"/></a>
   <img src="https://img.shields.io/badge/Total Lines-111.914-00C504?style=for-the-badge"/></a>
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/serdaraltin/Freelance-Works-2020?style=for-the-badge">
+  <img src="https://img.shields.io/github/repo-size/serdaraltin/Freelance-Works-2020?style=for-the-badge">
 </p>
 <p align="center">
      <a href="https://github.com/serdaraltin/Freelance-Works-2019"> <img src="https://img.shields.io/badge/2019%20%E2%86%92-gray.svg?colorA=CE5C00&colorB=CE5C00&style=for-the-badge"/></a>
   <img src="https://img.shields.io/badge/Projects-78 -CE0057?style=for-the-badge"/></a>
   <img src="https://img.shields.io/badge/Total Lines-139.921-00C504?style=for-the-badge"/></a>
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/serdaraltin/Freelance-Works-2019?style=for-the-badge">
+  <img src="https://img.shields.io/github/repo-size/serdaraltin/Freelance-Works-2019?style=for-the-badge">
 </p>
 
 <hr>
