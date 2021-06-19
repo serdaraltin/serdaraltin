@@ -1,4 +1,5 @@
- <p align="center">
+<h1 align="center" style="color:Navy;">COMPUTER PROGRAMMER</h3>
+<p align="center">
     <a href="https://www.linkedin.com/in/serdar-altin/"> <img src="https://img.shields.io/badge/Linkedin%20%E2%86%92-gray.svg?colorA=287ad1&colorB=287ad1&style=for-the-badge" width="150"/>
  </a>
    <a href="https://drive.google.com/file/d/18HxQf55naOzTillhmtLFevVdv9aROcxU/view?usp=sharing"> <img src="https://img.shields.io/badge/Resume&#10597;-gray.svg?colorA=942bd1&colorB=942bd1&style=for-the-badge" width="122"/>
@@ -12,7 +13,7 @@
 <p align="center"> <img src="programmer.png" alt="youtube" width="350"/> </p>
 
   <p align="center"><a href="https://codecov.io/gh/serdaraltin/github-readme-stats">
-      <img src="https://komarev.com/ghpvc/?username=serdaraltin&label=Profile%20views&color=ff8a14" />
+      <img src="https://komarev.com/ghpvc/?username=serdaraltin&label=profile%20views&color=ff8a14" />
     </a>
     <a>
       <img alt="GitHub followers" src="https://img.shields.io/github/followers/serdaraltin">
@@ -25,6 +26,7 @@
     </p>
 
 <hr>
+<h3 align="center" style="color:Navy;">FREELANCE WORKS</h3>
 <p align="center">
      <a href="https://github.com/serdaraltin/Freelance-Works-2021"> <img src="https://img.shields.io/badge/2021%20%E2%86%92-gray.svg?colorA=CE5C00&colorB=CE5C00&style=for-the-badge"/></a>
   <img src="https://img.shields.io/badge/Projects-146-CE0057?style=for-the-badge"/></a>
