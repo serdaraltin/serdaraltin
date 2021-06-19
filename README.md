@@ -7,11 +7,6 @@
  
 </br>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=serdaraltin&show_icons=true&theme=tokyonight&count_private=false)](https://github.com/serdaraltin/)
-
-</br>
-
-
 | Language           | Framework | Level | Experience      |
 | :----------------- |:---------:|:-----:|:---------------:|
 | C/C++              | -         | %60   | 2 year          |
@@ -26,3 +21,7 @@
 * <h4><a href="https://github.com/serdaraltin/Freelance-Works-2021">2021</a></h4>
 * <h4><a href="https://github.com/serdaraltin/Freelance-Works-2020">2020</a></h4>
 * <h4><a href="https://github.com/serdaraltin/Freelance-Works-2019">2019</a></h4>
+
+</br>
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=serdaraltin&show_icons=true&theme=tokyonight&count_private=false)](https://github.com/serdaraltin/)
