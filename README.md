@@ -19,6 +19,6 @@
 
 #### <h3> Freelance Works <img src="developers.png" alt="developers" width="30"/></h3>
 
-* <b><a href="https://github.com/serdaraltin/Freelance-Works-2021">2021</a></b>
-* <b><a href="https://github.com/serdaraltin/Freelance-Works-2020">2020</a></b>
-* <b><a href="https://github.com/serdaraltin/Freelance-Works-2019">2019</a></b>
+* <h4><a href="https://github.com/serdaraltin/Freelance-Works-2021">2021</a></h4>
+* <h4><a href="https://github.com/serdaraltin/Freelance-Works-2020">2020</a></h4>
+* <h4><a href="https://github.com/serdaraltin/Freelance-Works-2019">2019</a></h4>
