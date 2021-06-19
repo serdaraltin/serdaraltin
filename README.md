@@ -18,9 +18,6 @@
     <a>
       <img alt="GitHub followers" src="https://img.shields.io/github/followers/serdaraltin">
     </a>
-    <a href="https://github.com/serdaraltin/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/serdaraltin/github-readme-stats?color=0088ff" />
-    </a>
     <br/>
     <br/>
     </p>
