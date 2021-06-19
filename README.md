@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=serdaraltin&label=Profile%20views&color=ff8a14"/> </p>
 
-<p align="center"> <img src="programmer.png"/> </p>
+<p align="center"> <img src="programmer.png" alt="youtube" width="350"/> </p>
 
 <h3 align="center"><a href="https://www.linkedin.com/in/serdar-altin/" ><img src="linkedin.png" alt="linkedin" width="28"/> Linkedin </a>
  <a href="https://www.youtube.com/meyta" ><img src="youtube.png" alt="youtube" width="36"/> Youtube </a></h3>
