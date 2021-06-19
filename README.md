@@ -12,10 +12,11 @@
     <br />
     <br />
     <a href="https://a.paddle.com/v2/click/16413/119403?link=1227">
-      <img src="https://img.shields.io/badge/Linkedin%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Linkedin%20%E2%86%92-gray.svg?colorA=287ad1&colorB=287ad1&style=for-the-badge" heigth="130"/>
     </a>
     <a href="https://a.paddle.com/v2/click/16413/119403?link=1227">
-      <img src="https://img.shields.io/badge/Youtube%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Youtube%20%E2%86%92-gray.svg?colorA=d13434&colorB=d13434&style=for-the-badge" heigth="150"/>
+     <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCltJlvbcFATfBm0qHttpZNg?colorA=00000&colorB=d13434&style=for-the-badge">
     </a>
   </p>
 
