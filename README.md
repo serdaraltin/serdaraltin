@@ -83,7 +83,7 @@
  <tr>
   <th align="left">Php</th>
   <th>Laravel</th>
-  <th>%40</th>
+  <th>%35</th>
   <th>1 Year</th>
  </tr>
  <tr>
