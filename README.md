@@ -65,7 +65,7 @@
  <tr>
   <th align="left">C#</th>
   <th>.Net</th>
-  <th>%60</th>
+  <th>%55</th>
   <th>4 Year</th>
  </tr>
  <tr>
@@ -77,19 +77,19 @@
  <tr>
   <th align="left">Python</th>
   <th>-</th>
-  <th>%50</th>
+  <th>%40</th>
   <th>1 Year</th>
  </tr>
  <tr>
   <th align="left">Php</th>
   <th>Laravel</th>
-  <th>%35</th>
+  <th>%30</th>
   <th>1 Year</th>
  </tr>
  <tr>
   <th align="left">Android (Java)</th>
   <th>-</th>
-  <th>%25</th>
+  <th>%20</th>
   <th>6 Month</th>
  </tr>
 </table>
