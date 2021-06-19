@@ -48,7 +48,7 @@
 
 <hr>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=serdaraltin&bg_color=25,73229c,090a24&title_color=fff&text_color=fff" alt="stats"/> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serdaraltin&bg_color=25,73229c,090a24&title_color=fff&text_color=fff" alt="stats"/> </p>
+
 <hr>
 
 <table align="center">
