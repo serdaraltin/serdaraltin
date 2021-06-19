@@ -1,10 +1,37 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=serdaraltin&label=Profile%20views&color=ff8a14"/> </p>
+
+ <p align="center">
+  <a href="https://codecov.io/gh/serdaraltin/github-readme-stats">
+      <img src="https://komarev.com/ghpvc/?username=serdaraltin&label=Profile%20views&color=ff8a14" />
+    </a>
+    <a href="https://github.com/serdaraltin/github-readme-stats/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/serdaraltin/github-readme-stats?color=0088ff" />
+    </a>
+    <a href="https://github.com/serdaraltin/github-readme-stats/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/serdaraltin/github-readme-stats?color=0088ff" />
+    </a>
+    <br />
+    <br />
+    <a href="https://a.paddle.com/v2/click/16413/119403?link=1227">
+      <img src="https://img.shields.io/badge/Linkedin%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
+    </a>
+    <a href="https://a.paddle.com/v2/click/16413/119403?link=1227">
+      <img src="https://img.shields.io/badge/Youtube%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
+    </a>
+  </p>
+
 
 <p align="center"> <img src="programmer.png" alt="youtube" width="350"/> </p>
 
 <h3 align="center"><a href="https://www.linkedin.com/in/serdar-altin/" ><img src="linkedin.png" alt="linkedin" width="28"/> Linkedin </a>
  <a href="https://www.youtube.com/meyta" ><img src="youtube.png" alt="youtube" width="36"/> Youtube </a></h3>
  
+<hr>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=serdaraltin&bg_color=25,73229c,090a24&title_color=fff&text_color=fff" alt="stats"/> </p>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serdaraltin&layout=compact&bg_color=25,73229c,090a24&title_color=fff&text_color=fff" alt="stats"/> </p>
+
+
 <hr>
 
 <table align="center">
@@ -60,7 +87,3 @@
 <h4 align="center"><a href="https://github.com/serdaraltin/Freelance-Works-2021">2021</a></h4>
 <h4 align="center"><a href="https://github.com/serdaraltin/Freelance-Works-2020">2020</a></h4>
 <h4 align="center"><a href="https://github.com/serdaraltin/Freelance-Works-2019">2019</a></h4>
-
-<hr>
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=serdaraltin&show_icons=true&theme=tokyonight&count_private=false)](https://github.com/serdaraltin/)
