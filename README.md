@@ -9,7 +9,7 @@
          <a href="https://www.youtube.com/meyta"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCltJlvbcFATfBm0qHttpZNg?colorA=00000&colorB=d13434&style=for-the-badge"></a>
  <a href="https://www.youtube.com/meyta"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCltJlvbcFATfBm0qHttpZNg?colorA=00000&colorB=d13434&style=for-the-badge"></a>
   </p>
-
+  
 <p align="center"> <img src="programmer.png" alt="youtube" width="350"/> </p>
 
   <p align="center"><a href="https://codecov.io/gh/serdaraltin/github-readme-stats">
