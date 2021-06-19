@@ -1,5 +1,17 @@
  <p align="center">
-  <a href="https://codecov.io/gh/serdaraltin/github-readme-stats">
+    <a href="https://www.linkedin.com/in/serdar-altin/"> <img src="https://img.shields.io/badge/Linkedin%20%E2%86%92-gray.svg?colorA=287ad1&colorB=287ad1&style=for-the-badge" width="150"/>
+ </a>
+   <a href="https://drive.google.com/file/d/18HxQf55naOzTillhmtLFevVdv9aROcxU/view?usp=sharing"> <img src="https://img.shields.io/badge/Resume&#10597;-gray.svg?colorA=942bd1&colorB=942bd1&style=for-the-badge" width="122"/>
+ </a>
+    <br/>
+     <a href="https://www.youtube.com/meyta"> <img src="https://img.shields.io/badge/Youtube%20%E2%86%92-gray.svg?colorA=d13434&colorB=d13434&style=for-the-badge"/></a>
+         <a href="https://www.youtube.com/meyta"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCltJlvbcFATfBm0qHttpZNg?colorA=00000&colorB=d13434&style=for-the-badge"></a>
+ <a href="https://www.youtube.com/meyta"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCltJlvbcFATfBm0qHttpZNg?colorA=00000&colorB=d13434&style=for-the-badge"></a>
+  </p>
+
+<p align="center"> <img src="programmer.png" alt="youtube" width="350"/> </p>
+
+  <p align="center"><a href="https://codecov.io/gh/serdaraltin/github-readme-stats">
       <img src="https://komarev.com/ghpvc/?username=serdaraltin&label=Profile%20views&color=ff8a14" />
     </a>
     <a>
@@ -10,17 +22,7 @@
     </a>
     <br/>
     <br/>
-    <a href="https://www.linkedin.com/in/serdar-altin/"> <img src="https://img.shields.io/badge/Linkedin%20%E2%86%92-gray.svg?colorA=287ad1&colorB=287ad1&style=for-the-badge"/>
- </a>
-   <a href="https://drive.google.com/file/d/18HxQf55naOzTillhmtLFevVdv9aROcxU/view?usp=sharing"> <img src="https://img.shields.io/badge/Resume&#10597;-gray.svg?colorA=942bd1&colorB=942bd1&style=for-the-badge"/>
- </a>
-    <br/>
-     <a href="https://www.youtube.com/meyta"> <img src="https://img.shields.io/badge/Youtube%20%E2%86%92-gray.svg?colorA=d13434&colorB=d13434&style=for-the-badge"/></a>
-         <a href="https://www.youtube.com/meyta"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCltJlvbcFATfBm0qHttpZNg?colorA=00000&colorB=d13434&style=for-the-badge"></a>
- <a href="https://www.youtube.com/meyta"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCltJlvbcFATfBm0qHttpZNg?colorA=00000&colorB=d13434&style=for-the-badge"></a>
-  </p>
-
-<p align="center"> <img src="programmer.png" alt="youtube" width="350"/> </p>
+    </p>
 
 <hr>
 <p align="center">
@@ -43,13 +45,8 @@
 </p>
 
 <hr>
-
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=serdaraltin&bg_color=25,73229c,090a24&title_color=fff&text_color=fff" alt="stats"/> </p>
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serdaraltin&bg_color=25,73229c,090a24&title_color=fff&text_color=fff" alt="stats"/> </p>
-
-
 <hr>
 
 <table align="center">
@@ -96,7 +93,4 @@
   <th>%25</th>
   <th>6 Month</th>
  </tr>
-
 </table>
-
-
