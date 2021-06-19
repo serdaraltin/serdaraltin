@@ -7,14 +7,13 @@
 
 
 
-
-| Language           | Framework | Level | Experience Year |
-| :----------------- |:-------------------:|:--------:|:--------------:|
-| C/C++         | -         | %60   | 2 |
-| C#            | .Net      | %60   | 4 |
-| Java          | -         | %55   | 2 |
-| Python        | -         | %50   | 1 |
-| Php           | Laravel   | %40   | 1 |
-| Android (Java)| -         | %25   | 1 |
+| Language           | Framework | Level | Experience|
+| :----------------- |:---------:|:-----:|:---------------:|
+| C/C++              | -         | %60   | 2 year          |
+| C#                 | .Net      | %60   | 4 year          |
+| Java               | -         | %55   | 2 year          |
+| Python             | -         | %50   | 1 year          |
+| Php                | Laravel   | %40   | 1 year          |
+| Android (Java)     | -         | %25   | 6 month         |
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=serdaraltin&show_icons=true&theme=default&count_private=false)](https://github.com/serdaraltin/)
