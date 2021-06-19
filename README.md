@@ -16,4 +16,4 @@
 | Php                | Laravel   | %40   | 1 year          |
 | Android (Java)     | -         | %25   | 6 month         |
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=serdaraltin&show_icons=true&theme=default&count_private=false)](https://github.com/serdaraltin/)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=serdaraltin&show_icons=true&theme=tokyonight&count_private=false)](https://github.com/serdaraltin/)
