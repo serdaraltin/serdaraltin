@@ -1,4 +1,4 @@
-<h1 align="center" style="color:Navy;">COMPUTER PROGRAMMER</h3>
+<h1 align="center" style="color:Navy;">COMPUTER PROGRAMMER</h1>
 <p align="center">
     <a href="https://www.linkedin.com/in/serdar-altin/"> <img src="https://img.shields.io/badge/Linkedin%20%E2%86%92-gray.svg?colorA=287ad1&colorB=287ad1&style=for-the-badge" width="150"/>
  </a>
