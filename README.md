@@ -59,8 +59,8 @@
  <tr>
   <th align="left">C/C++</th>
   <th>-</th>
-  <th>%60</th>
-  <th>2 Year</th>
+  <th>%70</th>
+  <th>3 Year</th>
  </tr>
  <tr>
   <th align="left">C#</th>
