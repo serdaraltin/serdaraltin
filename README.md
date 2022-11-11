@@ -93,3 +93,4 @@
   <th>6 Month</th>
  </tr>
 </table>
+![snake svg](https://github.com/csehacademy/csehacademy/blob/output/github-contribution-grid-snake.svg)
