@@ -22,7 +22,7 @@
     <br/>
     </p>
 
-<hr>
+<!--<hr>
 <h3 align="center" style="color:Navy;">FREELANCE WORKS</h3>
 <p align="center">
      <a href="https://github.com/serdaraltin/Freelance-Works-2021"> <img src="https://img.shields.io/badge/2021%20%E2%86%92-gray.svg?colorA=CE5C00&colorB=CE5C00&style=for-the-badge"/></a>
@@ -46,7 +46,7 @@
 <hr>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=serdaraltin&bg_color=25,73229c,090a24&title_color=fff&text_color=fff" alt="stats"/> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serdaraltin&bg_color=25,73229c,090a24&title_color=fff&text_color=fff" alt="stats"/> </p>
-<hr>
+<hr>-->
 
 <table align="center">
  <tr>
