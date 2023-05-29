@@ -60,7 +60,7 @@
   <th align="left">C/C++</th>
   <th>Unreal Engine</th>
   <th>%70</th>
-  <th>3 Year</th>
+  <th>4 Year</th>
  </tr>
  <tr>
   <th align="left">C#</th>
@@ -72,13 +72,13 @@
   <th align="left">Java</th>
   <th>-</th>
   <th>%55</th>
-  <th>2 Year</th>
+  <th>3 Year</th>
  </tr>
  <tr>
   <th align="left">Python</th>
   <th>-</th>
   <th>%40</th>
-  <th>1 Year</th>
+  <th>2 Year</th>
  </tr>
  <tr>
   <th align="left">Php</th>
