@@ -2,7 +2,7 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/serdar-altin/"> <img src="https://img.shields.io/badge/Linkedin%20%E2%86%92-gray.svg?colorA=287ad1&colorB=287ad1&style=for-the-badge" width="150"/>
  </a>
-   <a href="[https://drive.google.com/file/d/1I2fxUftFB-h0vzL3MSm7b04y4kJAszTs/view?usp=sharing](https://drive.google.com/file/d/1jt_wBRgV4isdeZCsE8K0-PXpf6nwZO5i/view?usp=sharing)"> <img src="https://img.shields.io/badge/Resume&#10597;-gray.svg?colorA=942bd1&colorB=942bd1&style=for-the-badge" width="122"/>
+   <a href="https://drive.google.com/file/d/1jt_wBRgV4isdeZCsE8K0-PXpf6nwZO5i/view?usp=sharing"> <img src="https://img.shields.io/badge/Resume&#10597;-gray.svg?colorA=942bd1&colorB=942bd1&style=for-the-badge" width="122"/>
  </a>
     <br/>
      <a href="https://www.youtube.com/serdaraltin"> <img src="https://img.shields.io/badge/Youtube%20%E2%86%92-gray.svg?colorA=d13434&colorB=d13434&style=for-the-badge"/></a>
