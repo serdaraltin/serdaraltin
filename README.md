@@ -48,41 +48,4 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serdaraltin&bg_color=25,73229c,090a24&title_color=fff&text_color=fff" alt="stats"/> </p>
 <hr>-->
 
-<table align="center">
- <tr>
-    <th>Language</th>
-    <th>Framework</th>
-    <th>Experience</th>
- </tr>
- 
- <tr>
-  <th align="left">C/C++</th>
-  <th>Unreal Engine</th>
-  <th>3 Year</th>
- </tr>
- <tr>
-  <th align="left">C#</th>
-  <th>.Net</th>
-  <th>4 Year</th>
- </tr>
- <tr>
-  <th align="left">Java</th>
-  <th>-</th>
-  <th>4 Year</th>
- </tr>
- <tr>
-  <th align="left">Python</th>
-  <th>-</th>
-  <th>3 Year</th>
- </tr>
- <tr>
-  <th align="left">Php</th>
-  <th>Laravel</th>
-  <th>2 Year</th>
- </tr>
- <tr>
-  <th align="left">Android (Java)</th>
-  <th>-</th>
-  <th>1 Year</th>
- </tr>
 </table>
