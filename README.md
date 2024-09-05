@@ -11,7 +11,7 @@
   </p>
   
 <p align="center"> <img src="programmer.png" alt="youtube" width="350"/> </p>
-
+    <!--
   <p align="center"><a href="https://codecov.io/gh/serdaraltin/github-readme-stats">
       <img src="https://komarev.com/ghpvc/?username=serdaraltin&label=profile%20views&color=ff8a14" />
     </a>
@@ -46,11 +46,11 @@
 <hr>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=serdaraltin&bg_color=25,73229c,090a24&title_color=fff&text_color=fff" alt="stats"/> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serdaraltin&bg_color=25,73229c,090a24&title_color=fff&text_color=fff" alt="stats"/> </p>
-<hr>-->
+<hr>
 
 </table>
 <div align="center">
-    <!--
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=serdaraltin&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=serdaraltin&theme=dark&hide_border=false)<br/>
